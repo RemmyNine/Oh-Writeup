@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Remmy",
-  "license": "GPL-3.0",
+  "license": "Apache-2.0",
   "dependencies": {
     "bottleneck": "^2.19.5",
     "cheerio": "^1.0.0-rc.12",
